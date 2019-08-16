@@ -1,2 +1,3 @@
-# coupledSLoscillators
-Includes stability analysis and node activity of a coupled staurt landau oscillator system.
+# coupled oscillators
+
+Dynamical states and stability analysis of a network of coupled stuart landau oscillators
